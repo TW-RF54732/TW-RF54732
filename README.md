@@ -1,4 +1,4 @@
-# [你的名字] | Project Consultant & Full-Stack Developer
+# lolLeo | Project Consultant & Full-Stack Developer
 
 ### 🚀 專攻 AI 應用開發與後端架構
 具備從硬體端 (Embedded LLM) 到雲端部署 (Nginx/HTTPS) 的全棧開發能力，擅長將複雜技術解構成易懂的教學模組。
