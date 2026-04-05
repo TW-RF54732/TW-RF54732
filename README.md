@@ -67,11 +67,6 @@ Currently in that magical phase where I know enough to be dangerous but not enou
 
 ---
 
-## GitHub Stats (Don't Judge Too Harshly)
-
-![lolLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TW-RF54732&show_icons=true&theme=radical)
-
----
 
 ## Let's Connect!
 
